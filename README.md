@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen)](https://monsterdj07.github.io)
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://monsterdj07.github.io)
 <h1 align="center">Hi 👋, I'm Dheeraj mourya</h1>
 <h3 align="center">A passionate full stack developer and a Cyber-Security analyst from India.</h3>
 
